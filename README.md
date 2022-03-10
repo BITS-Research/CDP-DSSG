@@ -87,3 +87,15 @@ The Councils-in-Action dataset will include metadata about each elected official
 
 ### Potential impacts on individual legislators
 There are potential benefits and harms to increasing the transparency of city council deliberations, and we acknowledge that the results of this work may focus attention on elected officials. But, we argue that this is an important part of their elected duties - being held accountable for actions, even subtle and unintentional actions, that shape the structure and outcomes of a debate. Shedding light on these processes, and the impacts that individuals have in decisionmaking contexts is, overall, a net positive. 
+
+
+## Milestones
+We intend the 10 weeks of work to be broken down into two weeks sprints: 
+- Week 2 - Setup CDP infrastructure locally, divide cities amongst team, begin process of labeling datasets and exploring interruption classifications 
+- Week 4 - Complete annotations of datasets, and start to develop and tune models. Explore with descriptive statistics council members and speaking turns  
+- Week 5 - HACK WEEK - in teams we will explore hypothesis related to using model of interruption 
+- Week 6  - Registered report, as a team we will write and publish a protocol of our work, the hypothesis we are testing, and our intended outcomes.  
+- Week 8 -  Analysis and review of findings (preliminary), data packaged for publishing 
+- Week 10 - Analysis complete for presentation, data released and software packaged for replication  
+
+
