@@ -72,11 +72,11 @@ annotations" block.
 
 ### Criteria / constructs used for ideology labeling
 This is admittedly a challenging classification task. Elected officials at the municipal level often do not have an affiliation with a political party (though not always). For the municipalities we have identified three have no party and two have party affiliations: 
-- - Boston - formal party identification 
+- Boston - formal party identification 
 - - Seattle - no formal party identification 
 - - Portland - no formal party identification 
-- - DC - formal party identified
-- Oakland - no formal party identified
+- DC - formal party identified
+- -  Oakland - no formal party identified
 
 For cities with no formal party identification, there exist other valuable proxies for their political ideologies: 
 - Many elected officials have served in a previous capacity where they have formally declared a party. For example https://www.portland.gov/hardesty/meet-jo-ann previously served as a Democrat in the Oregon State Legislature 
