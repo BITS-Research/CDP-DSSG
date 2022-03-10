@@ -2,6 +2,15 @@
 
 Council Data Project - Councils in Action for Data Science for Social Good
 
+**Preliminary Feedback / Questions**
+
+- Whether a subset of the dataset will be labeled in advance or if students themselves will be doing any manual labeling
+- Preliminary modeling attempts and results
+- Criteria / constructs used for ideology labeling
+- Potential impacts on individual legislators as a result of this work; dynamics and impact of this work may vary greatly from the Supreme Court context
+
+We address each of these below. 
+
 ## Annotation and Classification
 
 > How much annotation will students or we need to do to begin work on an
@@ -56,3 +65,22 @@ Finally, as noted in the Low Confidence Speaker Annotation method, the storage
 of these annotations should likely not be on the "sentence level" but rather
 stored as an independent list of interruption times stored in the "transcript
 annotations" block.
+
+
+### Preliminary modeling attempts and results 
+
+
+### Criteria / constructs used for ideology labeling
+This is admittedly a challenging classification task. Elected officials at the municipal level often do not have an affiliation with a political party (though not always). For the municipalities we have identified three have no party and two have party affiliations: 
+- - Boston - formal party identification 
+- - Seattle - no formal party identification 
+- - Portland - no formal party identification 
+- - DC - formal party identified
+- Oakland - no formal party identified
+
+For cities with no formal party identification, there exist other valuable proxies for their political ideologies: 
+- Many elected officials have served in a previous capacity where they have formally declared a party. For example https://www.portland.gov/hardesty/meet-jo-ann previously served as a Democrat in the Oregon State Legislature 
+- Ballotopedia has a questionnaire where candidates answer specifically about their political philosophy e.g https://ballotpedia.org/Nikki_Fortunato_Bas 
+- And most politicians are members of a political party - whether or not they formally use that affiliation in their governing it is a valuable piece of data
+
+The Councils-in-Action dataset will include metadata about each elected official that serves on a city council, their age, tenure, district served, and a political ideology estimate with a confidence rating. 
