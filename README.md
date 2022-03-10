@@ -90,7 +90,7 @@ There are potential benefits and harms to increasing the transparency of city co
 
 
 ## Milestones
-We intend the 10 weeks of work to be broken down into two weeks sprints: 
+We intend the 10 weeks of work to be broken down into two week sprints: 
 - Week 2 - Setup CDP infrastructure locally, divide cities amongst team, begin process of labeling datasets and exploring interruption classifications 
 - Week 4 - Complete annotations of datasets, and start to develop and tune models. Explore with descriptive statistics council members and speaking turns  
 - Week 5 - HACK WEEK - in teams we will explore hypothesis related to using model of interruption 
