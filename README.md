@@ -84,3 +84,6 @@ For cities with no formal party identification, there exist other valuable proxi
 - And most politicians are members of a political party - whether or not they formally use that affiliation in their governing it is a valuable piece of data
 
 The Councils-in-Action dataset will include metadata about each elected official that serves on a city council, their age, tenure, district served, and a political ideology estimate with a confidence rating. 
+
+### Potential impacts on individual legislators
+There are potential benefits and harms to increasing the transparency of city council deliberations, and we acknowledge that the results of this work may focus attention on elected officials. But, we argue that this is an important part of their elected duties - being held accountable for actions, even subtle and unintentional actions, that shape the structure and outcomes of a debate. Shedding light on these processes, and the impacts that individuals have in decisionmaking contexts is, overall, a net positive. 
